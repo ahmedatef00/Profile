@@ -1,18 +1,14 @@
 # Profile
 
-```css
-Ahmed_Atef = {
-    "career": "Backend engineer in web",
-    skills: {
-        front_end: {
-            "html_css": ["react.js"]
-        },
-        back_end: {
-            "php": ["Laravel"]
-        }
-    }
-};
-```
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 - 📫 How to reach me: ahmedatef62437@gmail.com;
 - 📝[My Resume](https://www.linkedin.com/in/ahmed-a-1b9362184/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACt6mJ0Bpf9lt8ivVz1kC9N-_yZQPeL2rqM,1614114790174)/) 👨‍💻
